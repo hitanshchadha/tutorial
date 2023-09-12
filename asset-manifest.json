@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.b52aaf5a.css",
-    "main.js": "/static/js/main.c9d6c34b.js",
-    "static/js/787.6f0453fb.chunk.js": "/static/js/787.6f0453fb.chunk.js",
-    "static/media/GothamSSm-Medium_Web.woff2": "/static/media/GothamSSm-Medium_Web.9604c34cb4433672053b.woff2",
-    "static/media/GothamSSm-Book_Web.woff2": "/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
-    "index.html": "/index.html",
-    "main.b52aaf5a.css.map": "/static/css/main.b52aaf5a.css.map",
-    "main.c9d6c34b.js.map": "/static/js/main.c9d6c34b.js.map",
-    "787.6f0453fb.chunk.js.map": "/static/js/787.6f0453fb.chunk.js.map"
+    "main.css": "/tutorial/static/css/main.7b8ed4fa.css",
+    "main.js": "/tutorial/static/js/main.c6f80e59.js",
+    "static/js/787.6f0453fb.chunk.js": "/tutorial/static/js/787.6f0453fb.chunk.js",
+    "static/media/GothamSSm-Medium_Web.woff2": "/tutorial/static/media/GothamSSm-Medium_Web.9604c34cb4433672053b.woff2",
+    "static/media/GothamSSm-Book_Web.woff2": "/tutorial/static/media/GothamSSm-Book_Web.299e9ca606232b303d77.woff2",
+    "index.html": "/tutorial/index.html",
+    "main.7b8ed4fa.css.map": "/tutorial/static/css/main.7b8ed4fa.css.map",
+    "main.c6f80e59.js.map": "/tutorial/static/js/main.c6f80e59.js.map",
+    "787.6f0453fb.chunk.js.map": "/tutorial/static/js/787.6f0453fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b52aaf5a.css",
-    "static/js/main.c9d6c34b.js"
+    "static/css/main.7b8ed4fa.css",
+    "static/js/main.c6f80e59.js"
   ]
 }
